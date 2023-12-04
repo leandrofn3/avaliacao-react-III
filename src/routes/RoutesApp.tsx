@@ -7,10 +7,6 @@ const routes = createBrowserRouter([
 		element: <Home />
 	},
 
-	{
-		path: "",
-		element: ""
-	}
 ]);
 
 const RoutesApp: React.FC = () => {
